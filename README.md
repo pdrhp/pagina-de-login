@@ -22,6 +22,7 @@ Tela de Login:
 
 
 Tela de Registro: 
-![tela de registro](https://user-images.githubusercontent.com/34948480/235534568-83e6839f-0a50-4ffa-8257-53c7e8498184.png)
+![tela de registro](https://user-images.githubusercontent.com/34948480/235536634-759356af-21c6-4e48-921a-8f24915fa908.png)
+
 
 
