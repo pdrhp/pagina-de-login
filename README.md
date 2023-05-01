@@ -8,6 +8,9 @@
   </p> 
 
 
+A aplicação poderá ser acessada pelo link: https://pagina-de-login-ecru.vercel.app/
+
+
 Tela inicial: 
 ![tela de inicio](https://user-images.githubusercontent.com/34948480/235534526-2e071d47-9cde-4d2a-a5e5-3391a52499e3.png)
 
@@ -20,4 +23,3 @@ Tela de Registro:
 ![tela de registro](https://user-images.githubusercontent.com/34948480/235534568-83e6839f-0a50-4ffa-8257-53c7e8498184.png)
 
 
-A aplicação poderá ser acessada pelo link: https://pagina-de-login-ecru.vercel.app/
