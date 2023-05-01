@@ -3,7 +3,7 @@
     <h1 align="center">Pagina de login e registro</h1>
 
   <p align="center">    
-     O melhor restaurante da cidade     <br />
+     Pagina de login e registro simples para estudo HTML, CSS e JS básico     <br />
     <br />
   </p> 
 
