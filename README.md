@@ -5,7 +5,9 @@
   <p align="center">    
      Pagina de login e registro simples para estudo HTML, CSS e JS básico     <br />
     <br />
-  </p> 
+  </p>
+  
+  <p>Obs: Botões além do de login na pagina inicial são meramente ilustrativos</p>
 
 
 A aplicação poderá ser acessada pelo link: https://pagina-de-login-ecru.vercel.app/
