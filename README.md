@@ -20,4 +20,4 @@ Tela de Registro:
 ![tela de registro](https://user-images.githubusercontent.com/34948480/235534568-83e6839f-0a50-4ffa-8257-53c7e8498184.png)
 
 
-A aplicação poderá ser acessada pelo link: https://taste-git-master.lorenalgm.vercel.app/
+A aplicação poderá ser acessada pelo link: https://pagina-de-login-ecru.vercel.app/
